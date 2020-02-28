@@ -5,7 +5,16 @@ constructor(){
 }
 render(){
     return(
-        <div>理账</div>
+        <div>
+		<div class="a1">
+			<div class="">
+				<p>收礼</p>
+			</div>
+			<div>
+				<p>送礼</p>
+			</div>
+		</div>
+		</div>
     )
 }
 }

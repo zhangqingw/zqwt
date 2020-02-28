@@ -17,10 +17,10 @@ render(){
 				<router-view></router-view>
 			</div>
             <div id="u1">
-				<li><NavLink to="/">首页</NavLink></li>
-				<li><NavLink to="/manage">礼账</NavLink></li>
-				<li><NavLink to="/director">礼事</NavLink></li>
-				<li><NavLink to="/about">我的</NavLink></li>
+				<li><NavLink to="/box1">首页</NavLink></li>
+				<li><NavLink to="/box2">礼账</NavLink></li>
+				<li><NavLink to="/box3">礼事</NavLink></li>
+				<li><NavLink to="/box4">我的</NavLink></li>
 			</div>
         </div>
     )
